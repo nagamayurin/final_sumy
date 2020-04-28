@@ -30,17 +30,8 @@ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5
 entrypoints==0.3
 enum-compat==0.0.3
 filelock==3.0.12
-Flask==1.0.2
-folium==0.10.1
 future==0.18.2
 gensim==3.8.1
-google-api-core==1.16.0
-google-auth==1.12.0
-google-cloud-core==1.3.0
-google-cloud-storage==1.26.0
-google-cloud-vision==1.0.0
-google-resumable-media==0.5.0
-googleapis-common-protos==1.51.0
 grpcio==1.27.2
 gTTS==2.1.1
 gTTS-token==1.1.3
@@ -127,8 +118,6 @@ thinc==7.4.0
 tokenizers==0.5.2
 toml==0.10.0
 toolz==0.10.0
-torch==1.4.0
-torchvision==0.5.0
 tornado==5.1.1
 tqdm==4.44.0
 traitlets==4.3.3
