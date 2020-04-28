@@ -7,7 +7,6 @@ beautifulsoup4==4.8.2
 bleach==3.1.4
 blinker==1.4
 blis==0.4.1
-bokeh==2.0.1
 boto3==1.12.31
 botocore==1.15.31
 branca==0.4.0
@@ -56,13 +55,12 @@ Markdown==3.2.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 mistune==0.8.4
-mkl-fft==1.0.15
-mkl-random==1.1.0
-mkl-service==2.3.0
+mkl-fft
+mkl-random
+mkl-service
 murmurhash==1.0.2
 nbconvert==5.6.1
 nbformat==5.0.5
-networkx==2.4
 nltk==3.4
 notebook==6.0.3
 numpy==1.18.2
@@ -90,8 +88,6 @@ python-dateutil==2.8.1
 pyttsx3==2.87
 pytz==2019.3
 PyWavelets==1.1.1
-pywin32==227
-pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.0
 regex==2020.2.20
